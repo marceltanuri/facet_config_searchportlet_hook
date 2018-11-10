@@ -17,8 +17,8 @@
 <%@ include file="/html/portlet/search/init.jsp" %>
 
 <div style="border:1px solid gray;">
-	<h2>Atention!</h2>
-	<h3>This portlet has beeing changed by a HOOK and the changes in this configuration page will have any effect while the Hook is active. To disable the hook go to the Application Management in the Control Panel and disable the 'CSF Search Portlet Hook'.</h3>
+	<h2>Attention!</h2>
+	<h3>This portlet has being changed by a HOOK and the changes in this configuration page will have any effect while the Hook is active. To disable the hook go to the Application Management in the Control Panel and disable the 'CSF Search Portlet Hook'.</h3>
 </div>
 
 <liferay-portlet:actionURL portletConfiguration="true" var="configurationActionURL" />
