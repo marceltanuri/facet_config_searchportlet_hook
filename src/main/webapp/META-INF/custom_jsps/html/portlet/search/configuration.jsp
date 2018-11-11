@@ -18,7 +18,7 @@
 
 <div style="border:1px solid gray;">
 	<h2>Attention!</h2>
-	<h3>This portlet has being changed by a HOOK and the changes in this configuration page will have any effect while the Hook is active. To disable the hook go to the Application Management in the Control Panel and disable the 'CSF Search Portlet Hook'.</h3>
+	<h3>This portlet has being changed by a HOOK and the changes in this configuration page will have any effect while the Hook is active. To disable the hook go to the Application Management in the Control Panel and disable the 'CSF Search Portlet Hook'. <a href="https://github.com/marceltanuri/facet_config_searchportlet_hook">See more.</a></h3>
 </div>
 
 <liferay-portlet:actionURL portletConfiguration="true" var="configurationActionURL" />
